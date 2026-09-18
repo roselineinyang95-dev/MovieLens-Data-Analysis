@@ -5,11 +5,11 @@ This project focuses on Data Cleaning, exploratory analysis, and performing feat
 The analysis examines movie ratings, genres, release years, and user-generated tags to uncover patterns that could support a future movie recommendation system.
 
 ## Objectives
-Clean and prepare the MovieLens datasets
-Merge movie ratings with metadata and tags
-Perform feature engineering
-Explore rating patterns
-Identify meaningful insights
+Clean and prepare the MovieLens datasets,
+Merge movie ratings with metadata and tags,
+Perform feature engineering,
+Explore rating patterns,
+Identify meaningful insights,
 Determine how the findings could support a recommendation system.
 
 ## Tools Used
