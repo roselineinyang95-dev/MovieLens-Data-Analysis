@@ -12,6 +12,10 @@ Explore rating patterns,
 Identify meaningful insights,
 Determine how the findings could support a recommendation system.
 
+## Dataset: MovieLens Dataset
+The dataset is a small portion of the MovieLens dataset, a collection of movie ratings and metadata collected by the GroupLens Research Group. It contains information on movie ratings, movie titles and genres, user-generated tags, and links to external movie databases. 
+The datasets were cleaned and prepared by checking for missing values, duplicates, and data inconsistencies. The relevant tables were then merged using movieId to create a dataset for analysis. Additional features were engineered before conducting exploratory data analysis(EDA) to identify patterns and generate insights from the data. 
+
 ## Tools Used
 -Python
 -Pandas
